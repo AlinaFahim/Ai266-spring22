@@ -15,5 +15,11 @@ I like drawing
 I have interest in designing 
 
 
-HAFSA KANWAL_10420
-I am in 6th semester. My CGPA is 3.2. My weakness is my confidence & my writing is very bad. I love to sleep & also love my friends.
+Asslam o alaikum 
+My name is Fariha Faisal.
+I am very loyal with my friends and family.
+I have two qualities i can cook and i can drive.
+I am very shy person.
+I am very Polite.
+
+
