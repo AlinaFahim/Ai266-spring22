@@ -10,7 +10,6 @@
      
       1. AQSA HUSSAIN TAHIR:
 
-        My name is Aqsa Hussain Tahir
         I am sincere towards my studies
         I like to read story books
         I like drawing
@@ -19,7 +18,6 @@
       2. FARIHA FAISAL:
 
         Asslam o alaikum 
-        My name is Fariha Faisal.
         I am very loyal with my friends and family.
         I have two qualities i can cook and i can drive.
         I am very shy person.
@@ -27,16 +25,18 @@
         
       3.ALINA FAHIM IBRAHIM:
      
-        Asalam o alaikum,my name is Alina Fahim Ibrahim.
+       
         I am a hardworking person.
         I am very dedicated towards my studies and my profession.
         I usually speak a little bit less.
         This is my 3rd year.
         My CGPA is 3.54.
         
-       4. HAFSA KANWAL 10420
+       4. HAFSA KANWAL 10420:
        I am 6th semester student with CGPA 3.2. 
-       My weakness is my confidence. My handwriting is very bad. I love to sleep and I also love my friends. 
+       My weakness is my confidence. 
+       My handwriting is very bad. 
+       I love to sleep and I also love my friends. 
        
 
 
