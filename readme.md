@@ -5,7 +5,10 @@
 |10727|FARIHA FAISAL|
 |10420|HAFSA KANWAL|
 |10609|AQSA HUSSAIN TAHIR|
-alina how to save this file?
-hello
-hafsa
+My name is Aqsa Hussain Tahir
+I am sincere towards my studies
+I lie to read story books
+I like drawing
+I have interest in designing 
+
 
