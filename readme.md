@@ -25,7 +25,6 @@
         
       3.ALINA FAHIM IBRAHIM:
      
-       
         I am a hardworking person.
         I am very dedicated towards my studies and my profession.
         I usually speak a little bit less.
