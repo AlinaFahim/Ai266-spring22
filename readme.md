@@ -25,15 +25,15 @@
         I am very shy person.
         I am very Polite.
         
-     3.ALINA FAHIM IBRAHIM:
+      3.ALINA FAHIM IBRAHIM:
      
-       Asalam o alaikum,my name is Alina Fahim Ibrahim.
-       I am a hardworking person.
-       I am very dedicated towards my studies and my profession.
-       I usually speak a little bit less.
-       This is my 3rd year.
-       My CGPA is 3.54.
-       I generally like to learn new things.
+        Asalam o alaikum,my name is Alina Fahim Ibrahim.
+        I am a hardworking person.
+        I am very dedicated towards my studies and my profession.
+        I usually speak a little bit less.
+        This is my 3rd year.
+        My CGPA is 3.54.
+        I generally like to learn new things.
        
 
 
