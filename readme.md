@@ -33,7 +33,10 @@
         I usually speak a little bit less.
         This is my 3rd year.
         My CGPA is 3.54.
-        I generally like to learn new things.
+        
+       4. HAFSA KANWAL 10420
+       I am 6th semester student with CGPA 3.2. 
+       My weakness is my confidence. My handwriting is very bad. I love to sleep and I also love my friends. 
        
 
 
