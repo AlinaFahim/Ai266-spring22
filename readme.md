@@ -5,7 +5,7 @@
 |10727|FARIHA FAISAL|
 |10420|HAFSA KANWAL|
 |10609|AQSA HUSSAIN TAHIR|
-||ROSHAN MEHMOOD|
+|61705|ROSHAAN MEHMOOD|
 
      INTRODUCTION:
      
@@ -40,6 +40,9 @@
        
        5.ROSHAAN MEHMOOD:
        I am a student of PAF-KIET.
+       I am doing my bachelors in computer science degree since 2016.
+       I am a very active listener and and good observer.
+       I love reading and doung crative writing.
        I am sincere towards my studies.
        
 
