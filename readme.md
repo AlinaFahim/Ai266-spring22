@@ -5,6 +5,7 @@
 |10727|FARIHA FAISAL|
 |10420|HAFSA KANWAL|
 |10609|AQSA HUSSAIN TAHIR|
+||ROSHAN MEHMOOD|
 
      INTRODUCTION:
      
@@ -36,6 +37,10 @@
        My weakness is my confidence. 
        My handwriting is very bad. 
        I love to sleep and I also love my friends. 
+       
+       5.ROSHAAN MEHMOOD:
+       I am a student of PAF-KIET.
+       I am sincere towards my studies.
        
 
 
