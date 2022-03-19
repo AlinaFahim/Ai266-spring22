@@ -1,4 +1,4 @@
-Lecture 2 Summary:
+Lecture 2 Summary   16/2/22:
 
 
   1. Alina Fahim Ibrahim:
