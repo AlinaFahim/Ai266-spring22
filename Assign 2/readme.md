@@ -1,4 +1,5 @@
 |Student Name	|Student ID|
+|:-----:|---------------------|
 |Alina Fahim Ibrahim|10611|
 |Fariha Faisal|10727|
 |Hafsa Kanwal|10420|
