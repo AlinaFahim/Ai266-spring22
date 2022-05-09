@@ -32,4 +32,6 @@ Problems that we faced:
 
 We are not familiar with kaggle ,even we dont know that kaggle arrange online competition related to AI.This is our first time experience that we all are working on kaggle.At the very first we all create account on kaggle .AAfter creating an account we faced quite a little bit difficulty in joining May Tabular Series.Because it doesnot verify the contact numbers so it is a little bit long procedure to register the complain and wait for the response.At last we wrote python code for random real number for each row id.
 
-Score Screenshot(8 May 2022)
+Score Screenshot(9 May 2022)
+![Screenshot (269)](https://user-images.githubusercontent.com/92322865/167330383-6635d060-83bf-4d8e-b636-d64f8f617070.png)
+
