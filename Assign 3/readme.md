@@ -17,3 +17,13 @@ PROBLEMS THAT WE FACED AND HOW CAN WE SOLVED:
 1. ALINA FAHIM IBRAHIM:
      
     I can faced problem in the data cleaning sets beacuse it take time to upload the datasets. And afterwards I faced problems in prediction of random values.But later I will solve all this problems and try to get the best score. 
+
+
+
+KAGGLE SCORE SCREN SHOTS:
+
+1. ALINA FAHIM IBRAHIM:
+
+
+![Screenshot (332)](https://user-images.githubusercontent.com/92322865/168895340-4fd198a1-29a5-4de4-bd27-5b3828094655.png)
+
