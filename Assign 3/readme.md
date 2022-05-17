@@ -11,6 +11,9 @@ TECHNIQUES ON WHICH WE ARE WORKING UPON:
 
 1. NAIVE BAYES: (ALINA FAHIM IBRAHIM)
      I am working on naive bayes model.
+2.KNN:(AQSA HUSSAIN TAHIR)
+     I am selecting KNN as Machine Learning Model.
+     
      
 PROBLEMS THAT WE FACED AND HOW CAN WE SOLVED:
 
