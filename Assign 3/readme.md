@@ -17,6 +17,10 @@ PROBLEMS THAT WE FACED AND HOW CAN WE SOLVED:
 1. ALINA FAHIM IBRAHIM:
      
     I can faced problem in the data cleaning sets beacuse it take time to upload the datasets. And afterwards I faced problems in prediction of random values.But later I will solve all this problems and try to get the best score. 
+    
+ 2. AQSA HUSSAIN TAHIR:
+
+    Kaggel is a new platform for me.So at start I faced difficulty in using this platform but now I know that how to submit predictions.  
 
 
 
@@ -31,5 +35,17 @@ KAGGLE SCORE SCREN SHOTS:
 ![Screenshot (335)](https://user-images.githubusercontent.com/92322865/168896566-b8d53406-61ae-4ad6-b835-0c4118ff05ba.png)
 ![Screenshot (336)](https://user-images.githubusercontent.com/92322865/168896577-9ebac218-2f90-4e4c-9ccb-e523a06f6359.png)
 ![Screenshot (337)](https://user-images.githubusercontent.com/92322865/168896666-43523477-d113-4fb4-86ec-2dfca96174d1.png)
+
+
+2.AQSA HUSSAIN TAHIR:
+![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898347-83bf75fb-0310-4aa6-86d3-25ff220861b8.png)
+![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898364-b032b370-e041-441b-8305-d030f97f2c56.png)
+![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898385-37e27418-d143-40ad-bae6-65a2c85afdd3.png)
+![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898403-523a5060-288a-43cb-a8a0-f66ae1dadbed.png)
+![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898426-91a52cb5-b29f-4ac3-946f-030f317643f2.png)
+![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898443-39e7525e-1ac0-408b-ada9-d834e148f0c0.png)
+
+
+
 
 
