@@ -31,6 +31,7 @@ PROBLEMS THAT WE FACED AND HOW CAN WE SOLVED:
     I can faced problem in the data cleaning sets beacuse it take time to upload the datasets. And afterwards I faced problems in prediction of random values.But later I will solve all this problems and try to get the best score. 
     
  2. AQSA HUSSAIN TAHIR:
+ 
 
     Kaggel is a new platform for me.So at start I faced difficulty in using this platform but now I know that how to submit predictions.  
     
@@ -38,7 +39,8 @@ PROBLEMS THAT WE FACED AND HOW CAN WE SOLVED:
 
       For the new user,kaggle is difficult to use.So I faced some difficulty in using kaggle but later on I try to work on kaggle and submit prediction.
 
-
+FARIHA FAISAL:
+I AM WORKING ON PERCEPTRON
 
 KAGGLE SCORE SCREN SHOTS:
 
@@ -60,8 +62,4 @@ KAGGLE SCORE SCREN SHOTS:
 ![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898403-523a5060-288a-43cb-a8a0-f66ae1dadbed.png)
 ![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898426-91a52cb5-b29f-4ac3-946f-030f317643f2.png)
 ![Screenshot (331)](https://user-images.githubusercontent.com/99346395/168898443-39e7525e-1ac0-408b-ada9-d834e148f0c0.png)
-
-
-
-
 
