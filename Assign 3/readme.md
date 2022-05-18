@@ -10,10 +10,18 @@
 TECHNIQUES ON WHICH WE ARE WORKING UPON:
 
 1. NAIVE BAYES: (ALINA FAHIM IBRAHIM)
+
      I am working on naive bayes model.
      
 2.KNN:(AQSA HUSSAIN TAHIR)
+
      I am selecting KNN as Machine Learning Model.
+     
+3.SVM:(HAFSA KANWAL)
+
+     I have choosen SVM machine larning model.
+
+
      
      
 PROBLEMS THAT WE FACED AND HOW CAN WE SOLVED:
@@ -25,6 +33,10 @@ PROBLEMS THAT WE FACED AND HOW CAN WE SOLVED:
  2. AQSA HUSSAIN TAHIR:
 
     Kaggel is a new platform for me.So at start I faced difficulty in using this platform but now I know that how to submit predictions.  
+    
+  3. HAFSA KANWAL :
+
+      For the new user,kaggle is difficult to use.So I faced some difficulty in using kaggle but later on I try to work on kaggle and submit prediction.
 
 
 
