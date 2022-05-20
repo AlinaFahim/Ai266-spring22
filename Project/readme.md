@@ -23,4 +23,19 @@ KNN:
 
 ![Screenshot (343)](https://user-images.githubusercontent.com/92322865/169601590-03567a7a-a330-4ce2-882e-cbe787ec90cb.png)
 
+WHY DID WE CHOOSE DECISION TREE CLASSIFER?
+
+ANSWER: WE CHOOSE DECISION TREE CLASSIFIERS BECAUSE ITS ACCURACY WAS THE HIGHIST ONE AMONGST 3 CLASSIFIERS THAT IS KNN, NAIVE BAYES AND DECISION TREE.
+
+BELOW ARE THE SCREEN SHOTS OF THE ACCURACY OF ALL 3 CLASSIFIERS.
+
+![Screenshot (341)](https://user-images.githubusercontent.com/99346395/169601941-907df497-cf18-4160-aaf1-172c27ce9a3d.png)
+
+![Screenshot (342)](https://user-images.githubusercontent.com/99346395/169601970-39840ffc-fdce-4c4f-b4e8-77d819bfab64.png)
+
+![Screenshot (343)](https://user-images.githubusercontent.com/99346395/169601983-893403b6-b785-432d-aca8-5d4132fe91ee.png)
+
+
+
+
 
