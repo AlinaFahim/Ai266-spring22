@@ -66,7 +66,8 @@ What were the performances of each model on local test data.?
 Decison Tree Classifiers give accuracy for about 0.89 compared to the rest of the 2, it was higher.
 So we choose thise for kaggle submission
 
-![Screenshot (341)](https://user-images.githubusercontent.com/99345698/169604539-e09ea667-109d-4030-ad69-94455549f0e9.png)
+![Screenshot (341)](https://user-images.githubusercontent.com/99345698/169604631-bd77f668-d32f-4b4c-8cd7-202026715e3a.png)
+
 
 
 
