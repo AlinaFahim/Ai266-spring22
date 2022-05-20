@@ -68,6 +68,39 @@ So we choose thise for kaggle submission
 
 ![Screenshot (341)](https://user-images.githubusercontent.com/99345698/169604631-bd77f668-d32f-4b4c-8cd7-202026715e3a.png)
 
+--------------------NAIVE BAYES CLASSIFIERS:-----------------------
+
+Naive Bayes Classifiers give accuracy for about 0.88929 compared to the Decison Tree Classifier and KNN, is low so we did not choose this for
+kaggle submission.
+
+![Screenshot (342)](https://user-images.githubusercontent.com/99345698/169604925-25ced5c7-3b4c-49e5-b64d-310dc763a1c4.png)
+
+--------------------KNN CLASSIFIERS:-----------------------
+
+KNN Classifiers give accuracy for about 0.88936 compared to the Decison Tree Classifier, is low and compared to Naive Bayes it was higher so we did not choose this for
+kaggle submission because its accuracy was not higher than Decision Tree Classifier.
+
+![Screenshot (343)](https://user-images.githubusercontent.com/99345698/169604956-0ece225e-e6e1-413a-96f1-0671c327dd7a.png)
+
+
+
+PROBLEM WE FACED?
+
+ANSWER: THE PROBLEM WE FACED AT FIRST WAS WE DID NOT KNOW HOW TO IMPLEMENT CLASSIFIERS AS WE WERE ABSENT IN LAB CLASS OF CLASSIFIERS BECAUSE WE WERE AT MAIN CAMPUS FOR INTERNATIONAL MEETING. BUT ALL THANKS TO SIR. FAROOQ AND SIR UBAID ZAMAN FOR WHOLE HEARTEDLY HELPING US.
+
+REFERENCES WE USED?
+
+http://scikit-learn.org/stable/modules/naive_bayes.html
+
+https://en.wikipedia.org/wiki/Multiclass_classification
+
+http://scikit-learn.org/stable/documentation.html
+
+http://scikit-learn.org/stable/modules/tree.html
+
+http://scikit-learn.org/stable/modules/svm.html#svm-kernels
+
+https://www.analyticsvidhya.com/blog/2015/10/understaing-support-vector-machine-example-code/
 
 
 
